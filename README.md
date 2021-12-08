@@ -1,4 +1,4 @@
-### Hi there 👋 my name's Deep, here's a bit about me
+### Hey! 👋🏽 I'm Deep, here's a bit about me
 
 - 🔭 I’m currently working on Capital One's mobilebanking app as an Android engineer
 - 🌱 I’m currently learning AWS
